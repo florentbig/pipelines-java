@@ -5,6 +5,7 @@
 
 trigger:
 - master
+
 strategy:
   matrix:
     linux:
